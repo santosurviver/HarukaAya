@@ -1,6 +1,8 @@
 Dear anyone kanging my bot, At least, Don't fucking spam my private messages least. I'm tired of people copying my works and think it's so funny to do that.
 
 # Haruka Aya
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/santosurviver/HarukaAya)
+
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fbbb2ca43fa44938a7371706eb39411e)](https://app.codacy.com/gh/HarukaNetwork/HarukaAya?utm_source=github.com&utm_medium=referral&utm_content=HarukaNetwork/HarukaAya&utm_campaign=Badge_Grade_Dashboard)
 
